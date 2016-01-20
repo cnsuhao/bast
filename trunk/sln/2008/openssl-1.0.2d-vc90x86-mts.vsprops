@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="gb2312"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="openssl-1.0.2d-vc90x86-mts"
+	>
+	<Tool
+		Name="VCCLCompilerTool"
+		AdditionalIncludeDirectories="$(OPENSSL)\inc32;%(AdditionalIncludeDirectories)"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		AdditionalLibraryDirectories="$(OPENSSL)\out32;%(AdditionalLibraryDirectories)"
+	/>
+	<UserMacro
+		Name="OPENSSL"
+		Value="V:\openssl\1.0.2d"
+		PerformEnvironmentSet="true"
+	/>
+</VisualStudioPropertySheet>

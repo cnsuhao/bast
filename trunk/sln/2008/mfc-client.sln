@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mfc-client", "mfc-client.vcproj", "{BE3F7A0D-29A5-4C2D-94F9-8B2069B4A6C0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client", "client.vcproj", "{7FD86B19-1353-433E-8C01-0CEB4B90B2E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "server", "server.vcproj", "{C5DB420B-194D-4D3A-81B0-578AEE76F81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3F7A0D-29A5-4C2D-94F9-8B2069B4A6C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE3F7A0D-29A5-4C2D-94F9-8B2069B4A6C0}.Debug|Win32.Build.0 = Debug|Win32
+		{BE3F7A0D-29A5-4C2D-94F9-8B2069B4A6C0}.Release|Win32.ActiveCfg = Release|Win32
+		{BE3F7A0D-29A5-4C2D-94F9-8B2069B4A6C0}.Release|Win32.Build.0 = Release|Win32
+		{7FD86B19-1353-433E-8C01-0CEB4B90B2E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FD86B19-1353-433E-8C01-0CEB4B90B2E9}.Debug|Win32.Build.0 = Debug|Win32
+		{7FD86B19-1353-433E-8C01-0CEB4B90B2E9}.Release|Win32.ActiveCfg = Release|Win32
+		{7FD86B19-1353-433E-8C01-0CEB4B90B2E9}.Release|Win32.Build.0 = Release|Win32
+		{C5DB420B-194D-4D3A-81B0-578AEE76F81E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5DB420B-194D-4D3A-81B0-578AEE76F81E}.Debug|Win32.Build.0 = Debug|Win32
+		{C5DB420B-194D-4D3A-81B0-578AEE76F81E}.Release|Win32.ActiveCfg = Release|Win32
+		{C5DB420B-194D-4D3A-81B0-578AEE76F81E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
